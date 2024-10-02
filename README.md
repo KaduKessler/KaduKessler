@@ -23,6 +23,6 @@
   #
   
   <div>
-    <img src="https://spotify-widget-readme2.vercel.app/api?theme=dark" alt="Spotify Song Widget"  />
+    <img src="https://spotify-widget-readme.vercel.app/api?theme=dark" alt="Spotify Song Widget"  />
   </div>
 </section>
