@@ -1,6 +1,6 @@
 <section align="center">
   <h1>Carlos Eduardo Bitencourt Kessler ☕</h1>
-  <p>IT Technician & Student, aspiring developer who loves coffee, automating processes, and creating things.<br>
+  <p>Aspiring developer who loves coffee, automating processes, and creating things.<br>
   Currently studying <strong>Analysis and Systems Development</strong> at PUCRS.</p>
 
   ### 🌐 Socials
@@ -10,19 +10,19 @@
 
   ### 💻 Tech Stack
   <div style="display: inline_block">
-    <img align="center" alt="HTML5 Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5 - Advanced">
-    <img align="center" alt="CSS3 Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3 - Intermediate">
-    <img align="center" alt="TypeScript Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript - Basic">
-    <img align="center" alt="Python Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python - Intermediate">
-    <img align="center" alt="C# Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C# - Learning">
-    <img align="center" alt="Photoshop Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" title="Photoshop - Intermediate">
-    <img align="center" alt="Adobe XD Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" title="Adobe XD - Intermediate">
-    <img align="center" alt="Figma Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma - Intermediate">
+    <img align="center" alt="TypeScript Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript">
+    <img align="center" alt="React Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React">
+    <img align="center" alt="Scala Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" title="Scala">
+    <img align="center" alt="Python Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python">
+    <img align="center" alt="Docker Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker">
+    <img align="center" alt="Figma Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma">
+    <img align="center" alt="Linux Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux">
   </div>
 
+
   #
-  
+
   <div>
-    <img src="https://spotify-widget-readme.vercel.app/api?theme=dark" alt="Spotify Song Widget"  />
+    <img src="https://spotify-widget-readme.vercel.app/api?theme=dark" alt="Spotify Song Widget" />
   </div>
 </section>
