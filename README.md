@@ -1,4 +1,4 @@
-<section align="center">
+<div align="center">
   <h1>Carlos “Kadu” Kessler ☕</h1>
   <p>
     <strong>Junior Full‑Stack Developer | React · Next.js · TypeScript · Node.js</strong><br>
@@ -11,7 +11,7 @@
   [![WakaTime](https://img.shields.io/badge/WakaTime-5e5e5e?logo=wakatime&logoColor=F0F0F0)](https://wakatime.com/@Kadu)
 
   ### 💻 Tech Stack
-  <div style="display: inline_block">
+  <div>
     <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript">
     <img align="center" alt="React"      height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"           title="React">
     <img align="center" alt="Next.js"    height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"         title="Next.js">
@@ -28,4 +28,4 @@
   <div>
     <img src="https://spotify-widget-readme.vercel.app/api?theme=dark" alt="Spotify Song Widget" />
   </div>
-</section>
+</div>
